@@ -183,3 +183,6 @@ git remote set-url origin <link>
 
 // git push -u origin <branch name>
 git remote
+
+// check xem co remote chua
+git remote -v
