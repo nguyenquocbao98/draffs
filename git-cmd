@@ -172,3 +172,14 @@ git push --delete origin v1.1 (remote)
 
 - Create a new branch from a tag
 $ git checkout -b <new branch name> v1.0
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Lien ket git local voi remote
+// Them moi
+git remote add origin <link>
+
+// Sua
+git remote set-url origin <link>
+
+// git push -u origin <branch name>
+git remote
